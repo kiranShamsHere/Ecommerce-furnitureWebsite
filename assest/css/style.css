@@ -33,7 +33,8 @@ html {
 
 body {
     background: #161616;
-    background: url('/images/bg2.jpeg') no-repeat;
+    background: url('../../images/bg2.jpeg') no-repeat;
+    /* background: url('/images/bg2.jpeg') no-repeat; */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1229,7 +1230,8 @@ details ul li:hover {
 }
 
 .dealBoxOne {
-    background: url('/images/dealBg.jpeg') no-repeat;
+    background: url('../../images/dealBg.jpeg') no-repeat;
+    /* background: url('/images/dealBg.jpeg') no-repeat; */
     background-size: cover;
     background-position: center;
     padding: 20px;

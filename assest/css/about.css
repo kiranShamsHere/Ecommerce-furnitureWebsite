@@ -419,7 +419,8 @@ footer .footerFlex {
 }
 
 .about .aboutbg {
-    background-image: url('/images/contactbg.jpeg');
+    /* background-image: url('/images/contactbg.jpeg'); */
+    background: url('../../images/contactbg.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
